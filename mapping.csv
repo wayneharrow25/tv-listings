@@ -700,11 +700,11 @@ P1,NOW: TNT SPORT 3 ᴿᴬᵂ,tntsports3.uk,epgshare,TNT.Sports.3.HD.uk,high
 P1,NOW: TNT SPORT 3 ᴴᴰ,tntsports3.uk,epgshare,TNT.Sports.3.HD.uk,high
 P1,NOW: TNT SPORTS 4 ᴿᴬᵂ,tntsports4.uk,epgshare,TNT.Sports.4.HD.uk,high
 P1,NOW: TNT SPORTS 4 ᴴᴰ,tntsports4.uk,epgshare,TNT.Sports.4.HD.uk,high
-P1,NOW: TNT SPORT  ᵁᴴᴰ ³⁸⁴⁰ᴾ,,,,none
-P1,NOW: SKY SPORTS MAIN EVENT ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,SkySpMainEvHD.uk,medium
+P1,NOW: TNT SPORT  ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,TNT.Sports.Ultimate.HD.uk,low
+P1,NOW: SKY SPORTS MAIN EVENT ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,SkySpMainEvHD.uk,high
 P1,NOW: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ,skysports1uhd.uk,epgshare,Sky.Sports.Ultra.HD.1.uk,medium
 P1,NOW: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ,skysports2uhd.uk,epgshare,Sky.Sports.Ultra.HD.2.uk,medium
-P1,NOW: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ,skysportsf1.uk,epgshare,SkySp.F1.HD.uk,medium
+P1,NOW: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ,skysportsf1.uk,epgshare,SkySp.F1.HD.uk,high
 P1,VIP: TNT SPORT 1 ᴴᴰ,TNTSport1.uk,epgshare,TNT.Sports.1.HD.uk,high
 P1,VIP: TNT SPORT 2 ᴴᴰ,TNTSport2.uk,epgshare,TNT.Sports.2.HD.uk,high
 P1,VIP: TNT SPORT 3 ᴴᴰ,TNTSport3.uk,epgshare,TNT.Sports.3.HD.uk,high
@@ -924,14 +924,14 @@ P1,UK: RMTV SD,,,,none
 P1,UK: PREMIER SPORTS RUGBY SD,,,,none
 P1,UK: BEIN SP⚽RTS 1 ENGLISH ᴿᴬᵂ,beINSports1En.qa,,,none
 P1,UK: BEIN SP⚽RTS 2 ENGLISH ᴿᴬᵂ,beINSports2En.qa,,,none
-P1,UK: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,SkySpMainEvHD.uk,medium
+P1,UK: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,SkySpMainEvHD.uk,high
 P1,UK: SKY SPORTS DARTS  ᵁᴴᴰ ³⁸⁴⁰ᴾ,,,,none
 P1,UK: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,Sky.Sports.Ultra.HD.1.uk,medium
 P1,UK: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,Sky.Sports.Ultra.HD.2.uk,medium
 P1,UK: TNT SPORTS 1 ᴿᴬᵂ,TNTSport1.uk,epgshare,TNT.Sports.1.HD.uk,high
 P1,UK: SKY SPORTS F1 ᴿᴬᵂ,skysportsf1.uk,epgshare,SkySp.F1.HD.uk,high
 P1,UK: SKY SPORTS F1  50FPS ᴿᴬᵂ,skysportsf1.uk,epgshare,SkySp.F1.HD.uk,high
-P1,UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,TNT.Sports.Ultimate.HD.uk,medium
+P1,UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ,,epgshare,TNT.Sports.Ultimate.HD.uk,high
 P1,UK: TNT SPORTS 2 ᴿᴬᵂ,TNTSport2.uk,epgshare,TNT.Sports.2.HD.uk,high
 P1,UK: TNT SPORTS 3 ᴿᴬᵂ,TNTSport3.uk,epgshare,TNT.Sports.3.HD.uk,high
 P1,UK: TNT SPORTS 4 ᴿᴬᵂ,TNTSport4.uk,epgshare,TNT.Sports.4.HD.uk,high
@@ -1033,6 +1033,993 @@ P1,UK: WATCH +1 ◉,TS,freeview,UAndWPlus1.uk,high
 P1,UK: LEGEND ◉,Legend.uk,freeview,Legend.uk,high
 P1,UK: STV NORTH ◉,TS,freeview,STVNorth.uk,high
 P1,UK: ATN ◉,TS,epgshare,ATN.uk,high
-P1,UK: RTE ONE +1 ◉,TS,freeview,RTEOnePlus1.ie,medium
+P1,UK: RTE ONE +1 ◉,TS,freeview,RTEOne.ie|+1h,medium
 P1,UK: CREATE AND CRAFT 4K ◉,CreateCraft.uk,,,none
 P1,UK: CBS REALITY ◉,RealityXtra.uk,,,none
+P2,UK| BBC 1 HD,BBC1.uk,freeview,BBCOneLondonHD.uk,medium
+P2,UK| BBC 1 HEVC,BBC1.uk,freeview,BBCOneLondonHD.uk,medium
+P2,UK| BBC 2 HD,BBC2.uk,freeview,BBCTwoHD.uk,high
+P2,UK| BBC 2 HEVC,BBC2.uk,freeview,BBCTwoHD.uk,high
+P2,UK| BBC 3 / CBBC HD,CBBC.uk,freeview,BBCThreeHD.uk,low
+P2,UK| BBC 3 / CBBC HEVC,BBC3CBBC.uk,freeview,BBCThreeHD.uk,low
+P2,UK| BBC 4 / CBEEBIES HD,CBeebies.uk,freeview,BBCFourHD.uk,low
+P2,UK| BBC 4 / CBEEBIES HEVC,BBC4CBeebies.uk,freeview,BBCFourHD.uk,low
+P2,UK| BBC SCOTLAND HEVC,BBCScotland.uk,freeview,BBCScotland.uk,high
+P2,UK| BBC LIFESTYLE HD,,,,none
+P2,UK| BBC EARTH HD,,,,none
+P2,UK| ITV 1 HD,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| ITV 1 HEVC,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| ITV 2 HD,ITV2.uk,freeview,ITV2.uk,high
+P2,UK| ITV 2 HEVC,ITV2.uk,freeview,ITV2.uk,high
+P2,UK| ITV 3 HD,ITV3.uk,freeview,ITV3.uk,high
+P2,UK| ITV 3 HEVC,ITV3.uk,freeview,ITV3.uk,high
+P2,UK| ITV 4 HD,ITV4.uk,freeview,ITV4.uk,high
+P2,UK| ITV 4 HEVC,ITV4.uk,freeview,ITV4.uk,high
+P2,UK| ITV QUIZ HD,ITVBe.uk,freeview,ITVQuiz.uk,high
+P2,UK| ITV YORKSHIRE WEST,UK| ITV 1,freeview,ITV1YorkshireWest.uk,high
+P2,UK| ITV YORKSHIRE EAST,UK| ITV 1,freeview,ITV1YorkshireEast.uk,high
+P2,UK| CHANNEL 4 FHD,Channel4.uk,freeview,Channel4London.uk,medium
+P2,UK| CHANNEL 4SEVEN,Channel4.uk,freeview,4seven.uk,high
+P2,UK| CHANNEL 5 FHD,Channel5.uk,freeview,5.uk,high
+P2,UK| E4 FHD,E4.uk,freeview,E4.uk,high
+P2,UK| CBBC FHD,CBBC.uk,freeview,CBBC.uk,high
+P2,UK| MORE4 HD,More4.uk,freeview,More4.uk,high
+P2,UK| ALIBI FHD,Alibi.uk,epgshare,U.and.alibi.HD.uk,high
+P2,UK| ALIBI +1,,epgshare,alibi+1.uk,high
+P2,UK| THATS TV,Thats.TV.uk,freeview,ThatsTV.uk,high
+P2,UK| TALK TV FHD,TalkTV.uk,,,none
+P2,UK| TALK TV HD,TalkTV.uk,,,none
+P2,UK| U&W HD,uk.W,freeview,UAndW.uk,high
+P2,UK| HGTV,HGTV.uk,,,none
+P2,UK| STV CENTRAL WEST,,freeview,STVCentral.uk,high
+P2,UK| STV CENTRAL EAST,,freeview,STVCentral.uk,high
+P2,UK| STV NORTH,,freeview,STVNorth.uk,high
+P2,UK| HOBBY MAKER,,freeview,HobbyMaker.uk,high
+P2,UK| QUEST RED,QuestRed.uk,freeview,QuestRed.uk,high
+P2,UK| TRUE CRIME XTRA,,freeview,TrueCrimeXtra.uk,high
+P2,UK| LEGEND XTRA,Thats.TV.uk,freeview,LegendXtra.uk,high
+P2,UK| LEGEND,Legend.uk,freeview,Legend.uk,high
+P2,UK| E4 EXTRA,,freeview,E4Extra.uk,high
+P2,UK| GEOTV,,,,none
+P2,UK| GOD CHANNEL,,epgshare,GOD.Channel.uk,high
+P2,UK| RTE TWO HD,uk.RTÉ Two,freeview,RTE2.ie,high
+P2,UK| RTE ONE HD,RTEOne.ie,freeview,RTEOne.ie,high
+P2,UK| CHANNEL 4 +1,,freeview,Channel4Plus1London.uk,medium
+P2,UK| E4,E4.uk,freeview,E4.uk,high
+P2,UK| RT DOCUMENTRY HD,,,,none
+P2,UK| STV FHD,STV.uk,freeview,STVCentral.uk,medium
+P2,UK| TRT WORLD,TRTWorld.tr,freeview,TRTWorld.tr,high
+P2,UK| ITV1 BORDER SCOTLAND FHD,,freeview,ITV1Border.uk,high
+P2,UK| ITV1 LONDON FHD,,freeview,ITV1London.uk,high
+P2,UK| ITV 1 WEST COUNTRY WEST FHD,,freeview,ITV1WestCountry.uk,medium
+P2,UK| ITV 1 TYNE TEES FHD,LocalTVTyneAndWear.uk,freeview,ITV1TyneTees.uk,high
+P2,UK| ITV 1 Granada FHD,ITVGranada.uk,freeview,ITV1Granada.uk,high
+P2,UK| ITV MERIDIAN WEST,,,,none
+P2,UK| ITV ANGLIA WEST FHD,ITVAnglia.uk,freeview,ITV1AngliaWest.uk,high
+P2,UK| ITV MERIDIAN NORTH FHD,,freeview,ITV1MeridianN.uk,high
+P2,UK| ITV MERIDIAN SOUTH FHD,,freeview,ITV1MeridianS.uk,high
+P2,UK| ITV +1 CENTRAL WEST,uk.ITV Central,freeview,ITV1Plus1Midlands.uk,medium
+P2,UK| ITV +1 GRANADA,uk.ITV Granada,freeview,ITV1Plus1Granada.uk,high
+P2,UK| ITV +1 LONDON,uk.ITV London,freeview,ITV1Plus1London.uk,high
+P2,UK| N4 ICELAND HD,,,,none
+P2,UK| BBC 1,BBC1.uk,freeview,BBCOneLondonHD.uk,medium
+P2,UK| BBC 2,BBC2.uk,freeview,BBCTwoHD.uk,high
+P2,UK| BBC 4,BBC4.uk,freeview,BBCFourHD.uk,high
+P2,UK| ITV 1,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| ITV 1 +1,UK| ITV 1,freeview,ITV1Plus1London.uk,medium
+P2,UK| ITV 2,ITV2.uk,freeview,ITV2.uk,high
+P2,UK| ITV 2+1,ITV2.uk,freeview,ITV2Plus1.uk,high
+P2,UK| ITV 3,ITV3.uk,freeview,ITV3.uk,high
+P2,UK| ITV 3+1,ITV3.uk,freeview,ITV3Plus1.uk,high
+P2,UK| ITV 4,ITV4.uk,freeview,ITV4.uk,high
+P2,UK| ITV 4+1,ITV4.uk,freeview,ITV4Plus1.uk,high
+P2,UK| CITV,CITV.uk,,,none
+P2,UK| LONDON LIVE,LondonLive.uk,freeview,LondonTV.uk,low
+P2,UK| PRAISE TV NETWORK,,,,none
+P2,UK| SKY REPLAY,SkyReplay.uk,,,none
+P2,UK| FOOD NETWORK,FoodNetwork.uk,freeview,FoodNetwork.uk,high
+P2,UK| FOOD NETWORK +1,FoodNetwork.uk,freeview,FoodNetworkPlus1.uk,high
+P2,UK| BBC SCOTLAND HD,BBCScotland.uk,freeview,BBCScotland.uk,high
+P2,UK| CHANNEL 5 +1,uk.Channel 5+1,freeview,5Plus1.uk,high
+P2,UK| BBC ONE CHANNEL ISLAND,,freeview,BBCOneChannelIslands.uk,high
+P2,UK| BBC ONE EAST,,freeview,BBCOneEast.uk,high
+P2,UK| BBC ONE EAST MIDLANDS,ukBBC1 East Midlands,freeview,BBCOneEastMidlands.uk,high
+P2,UK| BBC ONE EAST W,,freeview,BBCOneEast.uk,low
+P2,UK| BBC ONE NI HD,UK| BBC ONE NI,freeview,BBCOneNorthernIreland.uk,high
+P2,UK| BBC ONE NI HEVC,,freeview,BBCOneNorthernIreland.uk,high
+P2,UK| BBC ONE NORTH EAST& CAM,,freeview,BBCOneNorthEastCumbria.uk,high
+P2,UK| BBC ONE NORTH WEST,BBCOneNorthWest.uk,freeview,BBCOneNorthWest.uk,high
+P2,UK| BBC ONE SCOT,,freeview,BBCOneScotHD.uk,high
+P2,UK| BBC ONE SCOT HD,,freeview,BBCOneScotHD.uk,high
+P2,UK| BBC ONE SCOTLAND HD,BBCOneScotland.uk,freeview,BBCOneScotHD.uk,high
+P2,UK| BBC ONE SCOTLAND HEVC,BBCOneScotland.uk,freeview,BBCOneScotHD.uk,high
+P2,UK| BBC ONE SOUTH WEST,,freeview,BBCOneSouthWest.uk,high
+P2,UK| BBC ONE SOUTH EAST,BBCOneSouthEast.uk,freeview,BBCOneSouthEast.uk,high
+P2,UK| BBC ONE WALES,BBCOneWales.uk,freeview,BBCOneWalesHD.uk,high
+P2,UK| BBC ONE WALES HD,BBCOneWales.uk,freeview,BBCOneWalesHD.uk,high
+P2,UK| BBC ONE WALES HEVC,BBCOneWales.uk,freeview,BBCOneWalesHD.uk,high
+P2,UK| BBC ONE WEST,uk.BBC1 West,freeview,BBCOneWest.uk,high
+P2,UK| BBC ONE WEST MIDLANDS,,freeview,BBCOneWestMidlands.uk,high
+P2,UK| BBC ONE YORKS,,freeview,BBCOneYorkshire.uk,high
+P2,UK| BBC ONE YK LI,,freeview,BBCOneYorksLincs.uk,high
+P2,UK| BBC ONE LONDON,uk.BBC1 London,freeview,BBCOneLondonHD.uk,high
+P2,UK| BBC TWO HD,uk.BBC2 N Ireland,freeview,BBCTwoHD.uk,high
+P2,UK| BBC TWO NORTHERN IRELAND,BBC2NI.uk,freeview,BBCTwoNorthernIreland.uk,high
+P2,UK| BBC TWO WALES,BBCTwoWales.uk,freeview,BBCTwoWales.uk,high
+P2,UK| BBC TWO WALES HD,BBCTwoWales.uk,freeview,BBCTwoWales.uk,high
+P2,UK| BBC TWO WALES HEVC,BBCTwoWales.uk,freeview,BBCTwoWales.uk,high
+P2,UK| BBC TWO SCOTLAND,uk.BBC2 Scotland,freeview,BBCTwoHD.uk,low
+P2,UK| CHANNEL 4 LONDON,,freeview,Channel4London.uk,high
+P2,UK| CHANNEL 4 MIDLANDS,,freeview,Channel4Midlands.uk,high
+P2,UK| CHANNEL 4 SOUTH & EAST,,freeview,Channel4South.uk,medium
+P2,UK| ITV CENTRAL EAST,ITVCentral.uk,freeview,ITV1CentralE.uk,high
+P2,UK| ITV CENTRAL WEST,,freeview,ITV1CentralW.uk,high
+P2,UK| ITV GRANADA,uk.ITV Granada,freeview,ITV1Granada.uk,high
+P2,UK| ITV LONDON,,freeview,ITV1London.uk,high
+P2,UK| ITV WALES,ITVWales.uk,freeview,ITV1Wales.uk,high
+P2,UK| ITV WALES HD,ITV1Wales.uk,freeview,ITV1Wales.uk,high
+P2,UK| ITV WALES HEVC,,freeview,ITV1Wales.uk,high
+P2,UK| ITV BORDER SCOTLAND,,freeview,ITV1Border.uk,high
+P2,UK| BBC NEWS HEVC FHD,BBCNews.uk,freeview,BBCNews.uk,high
+P2,UK| BBC NEWS HEVC HD,BBCNews.uk,freeview,BBCNews.uk,high
+P2,UK| GB NEWS HEVC FHD,GBNews.uk,freeview,GBNews.uk,high
+P2,UK| GB NEWS HEVC HD,GBNews.uk,freeview,GBNews.uk,high
+P2,UK| SKY NEWS HEVC FHD,SkyNews.uk,freeview,SkyNews.uk,high
+P2,UK| SKY NEWS HEVC HD,SkyNews.uk,freeview,SkyNews.uk,high
+P2,UK| BBC1 HEVC HD,BBC1.uk,freeview,BBCOneLondonHD.uk,medium
+P2,UK| BBC2 HEVC FHD,BBC2.uk,freeview,BBCTwoHD.uk,high
+P2,UK| BBC2 HEVC HD,BBC2.uk,freeview,BBCTwoHD.uk,high
+P2,UK| RTE 1 HEVC FHD,,freeview,RTEOne.ie,high
+P2,UK| ITV1 HEVC FHD,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| ITV1 HEVC HD,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| CHANNEL 4 HEVC FHD,Channel4.uk,freeview,Channel4London.uk,medium
+P2,UK| CHANNEL 5 HEVC FHD,Channel5.uk,freeview,5.uk,high
+P2,UK| VIRGIN 1 HEVC FHD,,,,none
+P2,UK| VIRGIN 2 HEVC FHD,,,,none
+P2,UK| ITV 2 HEVC FHD,ITV2.uk,freeview,ITV2.uk,high
+P2,UK| ITV 2 HEVC HD,ITV2.uk,freeview,ITV2.uk,high
+P2,UK| ITV 3 HEVC FHD,ITV3.uk,freeview,ITV3.uk,high
+P2,UK| ITV 3 HEVC HD,ITV3.uk,freeview,ITV3.uk,high
+P2,UK| ALIBI HEVC HD,Alibi.uk,epgshare,U.and.alibi.HD.uk,high
+P2,UK| E4 HEVC FHD,E4.uk,freeview,E4.uk,high
+P2,UK| MTV HEVC FHD,MTV.uk,epgshare,MTV.HD.uk,high
+P2,UK| AMC FHD,AMC.uk,,,none
+P2,UK| BLAZE FHD,Blaze.uk,freeview,Blaze.uk,high
+P2,UK| COMEDY CENTRAL FHD,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK| DAVE FHD,UandDave.uk,freeview,UAndDave.uk,high
+P2,UK| DAYSTAR HEVC,,epgshare,DAYSTAR.HD.uk,high
+P2,UK| EDEN FHD,Eden.uk,freeview,UAndEden.uk,high
+P2,UK| FILM 4 FHD,Film4.uk,freeview,Film4.uk,high
+P2,UK| GOLD FHD,GOLD.uk,epgshare,U.and.GOLD.HD.uk,high
+P2,UK| MORE 4 FHD,More4.uk,freeview,More4.uk,high
+P2,UK| QUEST FHD,Quest.uk,freeview,QuestHD.uk,high
+P2,UK| SKY ARTS FHD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK| SKY ATLANTIC FHD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK| SKY COMEDY FHD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK| SKY MAX FHD,SkyMax.uk,,,none
+P2,UK| SKY SHOWCASE FHD,SkyShowcase.uk,,,none
+P2,UK| STV FHD,STV.uk,freeview,STVCentral.uk,medium
+P2,UK| SYFY FHD,uk.Syfy,,,none
+P2,UK| TCM FHD,TCM.uk,,,none
+P2,UK| TLC FHD,TLC.uk,freeview,TLC.uk,high
+P2,UK| UTV FHD,UTV.uk,freeview,UTV.uk,high
+P2,UK| YESTERDAY FHD,Yesterday.uk,freeview,UAndYesterday.uk,high
+P2,UK| 5 STAR,5star.uk,freeview,5Star.uk,high
+P2,UK| 5 STAR+1,uk.5STAR +1,freeview,5StarPlus1.uk,high
+P2,UK| 5 USA,FiveUSA.uk,freeview,5USA.uk,high
+P2,UK| 5 USA +1,uk.5 USA +1,freeview,5USAPlus1.uk,high
+P2,UK| BEST DIRECT,BestDirect.uk,freeview,BestDirect.uk,high
+P2,UK| TRUE CRIME HD,CBSReality.uk,freeview,TrueCrime.uk,high
+P2,UK| CBS REALITY +1,uk.CBS Reality+1,,,none
+P2,UK| CHALLENGE,Challenge.uk,freeview,Challenge.uk,high
+P2,UK| COMEDY CENTRAL,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK| COMEDY CENT XTRA+1,ComedyCentralExtra.uk,epgshare,ComedyCent+1.uk,low
+P2,UK| DAVE,DaveJaVu.uk,freeview,UAndDave.uk,high
+P2,UK| DAYSTAR HD,uk.Daystar HD,epgshare,DAYSTAR.HD.uk,high
+P2,UK| DRAMA,Drama.uk,freeview,UAndDrama.uk,high
+P2,UK| E! ENTERTAINMENT HD,EEntertainment.uk,,,none
+P2,UK| EDEN,Eden.uk,freeview,UAndEden.uk,high
+P2,UK| EDEN +1,Eden.uk,freeview,UAndEdenPlus1.uk,high
+P2,UK| GEMS TV,GemsTV.uk,freeview,GemsTV.uk,medium
+P2,UK| GOLD +1,GOLD.uk,epgshare,U.and.GOLD+1.uk,high
+P2,UK| HORROR CHANNEL,HorrorChannel.uk,freeview,Legend.uk,low
+P2,UK| HORROR CHANNEL +1,uk.horror ch+1,freeview,LegendXtraPlus1.uk,low
+P2,UK| LEGEND HD,Legend.uk,freeview,Legend.uk,high
+P2,UK| MORE 4,More4.uk,freeview,More4.uk,high
+P2,UK| PBS AMERICA,PBSAmerica.uk,freeview,PBSAmerica.uk,high
+P2,UK| QUEST +1,Quest.uk,freeview,QuestPlus1.uk,high
+P2,UK| QUEST RED +1,QuestRed.uk,freeview,QuestRedPlus1.uk,high
+P2,UK| QVC BEAUTY,uk.QVC Beauty,freeview,QVCBeautyUK.uk,high
+P2,UK| QVC EXTRA,uk.QVC Extra,freeview,QVCExtraUK.uk,high
+P2,UK| QVC STYLE,uk.QVC Style,freeview,QVCStyleUK.uk,high
+P2,UK| QVC UK.,QVC.uk,freeview,QVCUK.uk,high
+P2,UK| REALLY,Really.uk,freeview,Really.uk,high
+P2,UK| SKY MAX,SkyMax.uk,,,none
+P2,UK| SKY MIX,PickTV.uk,freeview,SkyMix.uk,high
+P2,UK| SKY SHOWCASE,SkyShowcase.uk,,,none
+P2,UK| SKY WITNESS HD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK| SONY LIFE,,,,none
+P2,UK| THAT'S TV,,freeview,ThatsTV.uk,high
+P2,UK| TRUE CRIME,CBSDrama.uk,freeview,TrueCrime.uk,high
+P2,UK| TRUE CRIME XTRA,,freeview,TrueCrimeXtra.uk,high
+P2,UK| BBC BRIT,Yesterday.uk,,,none
+P2,UK| YESTERDAY,Yesterday.uk,freeview,UAndYesterday.uk,high
+P2,UK| COURT TV,CourtTV.uk,,,none
+P2,UK| GREAT TV,,freeview,GreatTV.uk,high
+P2,UK| HIGH STREET TV 1,HighStreet1.uk,freeview,HighStreetTV1.uk,high
+P2,UK| HIGH STREET TV 2,HighStreet2.uk,freeview,HighStreetTV2.uk,high
+P2,UK| HIGH STREET TV 3,HighStreet3.uk,epgshare,High.Street.TV.3.uk,high
+P2,UK| HIGH STREET TV 4,HighStreet4.uk,epgshare,High.Street.TV.4.uk,high
+P2,UK| HIGH STREET TV 5,HighStreet5.uk,,,none
+P2,UK| IDEAL WORLD,IdealWorld.uk,freeview,IdealWorld.uk,high
+P2,UK| IDEAL WORLD FHD,IdealWorld.uk,freeview,IdealWorld.uk,high
+P2,UK| IDEAL WORLD HD,IdealWorld.uk,freeview,IdealWorld.uk,high
+P2,UK| LOVE WORLD FHD,LoveWorld.us,epgshare,LoveWorld.HD.uk,high
+P2,UK| TOGETHER,TogetherTV.uk,freeview,TogetherTV.uk,high
+P2,UK| W! - WATCH FHD,uk.W,freeview,UAndW.uk,high
+P2,UK| COMEDY CENTRAL HEVC FHD,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK| COMEDY CENTRAL HEVC,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK| GOLD HEVC FHD,GOLD.uk,epgshare,U.and.GOLD.HD.uk,high
+P2,UK| GOLD HEVC HD,GOLD.uk,epgshare,U.and.GOLD.HD.uk,high
+P2,UK| MORE4 HEVC FHD,More4.uk,freeview,More4.uk,high
+P2,UK| MORE4 HEVC HD,More4.uk,freeview,More4.uk,high
+P2,UK| SKY ARTS HEVC FHD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK| SKY ARTS HEVC HD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK| SKY ATLANTIC HEVC FHD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK| SKY ATLANTIC HEVC HD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK| SKY COMEDY HEVC FHD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK| SKY COMEDY HEVC HD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK| SKY SHOWCASE HEVC FHD,SkyShowcase.uk,,,none
+P2,UK| SKY SHOWCASE HEVC HD,SkyShowcase.uk,,,none
+P2,UK| SKY WITNESS HEVC FHD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK| SKY WITNESS HEVC HD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK| TLC HEVC FHD,,freeview,TLC.uk,high
+P2,UK| TLC HEVC HD,TLC.uk,freeview,TLC.uk,high
+P2,UK| SKY NEWS FHD,SkyNews.uk,freeview,SkyNews.uk,high
+P2,UK| SKY NEWS HD,SkyNews.uk,freeview,SkyNews.uk,high
+P2,UK| SKY NEWS,uk.Sky News,freeview,SkyNews.uk,high
+P2,UK| BBC NEWS HEVC,BBCNews.uk,freeview,BBCNews.uk,high
+P2,UK| BBC NEWS HD,BBCNews.uk,freeview,BBCNews.uk,high
+P2,UK| BBC NEWS HD,BBCNews.uk,freeview,BBCNews.uk,high
+P2,UK| BBC ONE YORKSHIRE,,freeview,BBCOneYorkshire.uk,high
+P2,UK| BBC ONE NORTHERN IRELAND FHD,BBCOneNorthernIreland.uk,freeview,BBCOneNorthernIreland.uk,high
+P2,UK| BBC PARLIAMENT,BBCParliament.uk,freeview,BBCParliament.uk,high
+P2,UK| BBC WORLD NEWS HD,BBCWorldNews.uk,,,none
+P2,UK| CNN FHD,uk.CNN,freeview,CNNInternational.uk,high
+P2,UK| CNN INTERNATIONAL,CNN.uk,freeview,CNNInternational.uk,high
+P2,UK| CNBC,CNBC.uk,freeview,CNBCEurope.uk,high
+P2,UK| GB NEWS,GBNews.uk,freeview,GBNews.uk,high
+P2,UK| GB NEWS FHD,GBNews.uk,freeview,GBNews.uk,high
+P2,UK| EURONEWS,EuroNews.uk,freeview,EuronewsEnglish.fr,high
+P2,UK| EURONEWS EN HD,uk.Euronews,freeview,EuronewsEnglish.fr,high
+P2,UK| AL JAZEERA EN HD,AlJazeeraEnglish.uk,freeview,AlJazeeraEnglish.qa,high
+P2,UK| BBC ARABIC,,,,none
+P2,UK| ARISE NEWS,AriseNews.uk,freeview,AriseNews.uk,high
+P2,UK| RT UK HD,,,,none
+P2,UK| RT NEWS HD,uk.RT HD,,,none
+P2,UK| RTE NEWS NOW,,freeview,RTENews.ie,medium
+P2,UK| RT AMERICA HD,,,,none
+P2,UK| RT FHD RUSSIAN (Temp Off Air),,,,none
+P2,UK| BLOOMBERG EU,BloombergTV.uk,freeview,BloombergTVEurope.uk,medium
+P2,UK| BLOOMBERG HD,BloombergTV.uk,freeview,BloombergTVEurope.uk,high
+P2,UK| BLOOMBERG HEVC,BloombergTV.uk,freeview,BloombergTVEurope.uk,high
+P2,UK| DW NEWS,,,,none
+P2,UK| FRANCE 24,,freeview,France24English.fr,high
+P2,UK| GEO NEWS,GeoTV.uk,epgshare,GEO.News.uk,high
+P2,UK| I24NEWS EN,,,,none
+P2,UK| NBC NEWS NOW FHD,,,,none
+P2,UK| NEW MEDIA FHD,,,,none
+P2,UK| NHK WORLD FHD,,freeview,NHKWorldJapan.jp,high
+P2,UK| PTV GLOBAL,,,,none
+P2,UK| TVC NEWS,TVCNews.uk,freeview,TVCNews.ng,high
+P2,UK| WION FHD,,,,none
+P2,UK| BOOMERANG FHD,Boomerang.uk,epgshare,Boomerang.HD.uk,high
+P2,UK| CARTOON NETWORK FHD,CartoonNetwork.uk,epgshare,Cartoon.Net.HD.uk,high
+P2,UK| DISNEY CHANNEL FHD,uk.Disney Chnl,,,none
+P2,UK| NICKELODEON FHD,Nickelodeon.uk,epgshare,NickelodeonHD.uk,high
+P2,UK| NICK JR FHD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK| NICKELODEON HD,Nickelodeon.uk,epgshare,NickelodeonHD.uk,high
+P2,UK| NICK JR HD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK| SKY KIDS HD,,epgshare,Sky.Kids.HD.uk,high
+P2,UK| CHU CHU TV 1 FHD,,,,none
+P2,UK| CHU CHU TV 2 FHD,,,,none
+P2,UK| CHU CHU TV 3 FHD,,,,none
+P2,UK| CHU CHU TV 4 FHD,,,,none
+P2,UK| CHU CHU TV 5 FHD,,,,none
+P2,UK| CHU CHU TV 6 FHD,,,,none
+P2,UK| CHU CHU TV 7 FHD,,,,none
+P2,UK| CHU CHU TV 8 FHD,,,,none
+P2,UK| CHU CHU TV 9 FHD,,,,none
+P2,UK| CHU CHU TV 10 FHD,,,,none
+P2,UK| BABY TV,BabyTV.uk,epgshare,BabyTV.uk,high
+P2,UK| BOOMERANG +1,uk.Boomerang +1,epgshare,Boomerang+1.uk,high
+P2,UK| CARTOONITO,Cartoonito.uk,epgshare,Cartoonito.uk,high
+P2,UK| CARTOON NETWORK +1,,epgshare,CN+1.uk,high
+P2,UK| DAVE & AVA HD,,,,none
+P2,UK| NICKELODEON +1,,epgshare,Nickelodeon+1.uk,high
+P2,UK| NICK JUNIOR,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK| NICK JUNIOR TOO,NickJrToo.uk,epgshare,Nick.Jr..Too.uk,high
+P2,UK| NICK TOONS,Nicktoons.uk,epgshare,Nicktoons.uk,high
+P2,UK| POP,Pop.uk,,,none
+P2,UK| RTE JR,,freeview,RTEKidsJr.ie,medium
+P2,UK| BLOOMBERG HEVC FHD,BloombergTV.uk,freeview,BloombergTVEurope.uk,high
+P2,UK| BLOOMBERG  HEVC HD,BloombergTV.uk,freeview,BloombergTVEurope.uk,high
+P2,UK| CARTOON NETWORK  HEVC FHD,CartoonNetwork.uk,epgshare,Cartoon.Net.HD.uk,high
+P2,UK| CARTOON NETWORK HEVC HD,CartoonNetwork.uk,epgshare,Cartoon.Net.HD.uk,high
+P2,UK| NICK HEVC FHD,NickJunior.uk,epgshare,NickelodeonHD.uk,high
+P2,UK| NICK HEVC HD,NickJunior.uk,epgshare,NickelodeonHD.uk,high
+P2,UK| NICK JR HEVC FHD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK| NICK JR HEVC HD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK| SKY KIDS HEVC FHD,SkyKids.uk,epgshare,Sky.Kids.HD.uk,high
+P2,UK| SKY KIDS HEVC HD,SkyKids.uk,epgshare,Sky.Kids.HD.uk,high
+P2,UK| ANIMAL PLANET FHD,AnimalPlanet.uk,epgshare,Animal.Planet.uk,high
+P2,UK| ANIMAL PLNT +1,AnimalPlanet.uk,epgshare,Animal.Plnt+1.uk,high
+P2,UK| SKY DOCUMENTARIES FHD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK| SKY DOCUMENTARIES HD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK| SKY DOCUMENTARIES SD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK| DISCOVERY FHD,DiscoveryChannel.uk,epgshare,Discovery.HD.uk,high
+P2,UK| DISCOVERY HD,DiscoveryChannel.uk,epgshare,Discovery.HD.uk,high
+P2,UK| DISCOVERY SD,DiscoveryChannel.uk,epgshare,Discovery.HD.uk,high
+P2,UK| DISCOVERY +1,DiscoveryChannel.uk,epgshare,Discovery+1.uk,high
+P2,UK| DISCOVERY TURBO,DiscoveryTurbo.uk,epgshare,Disc.Turbo.uk,high
+P2,UK| DISCOVERY TURBO +1,uk.Disc.Turbo,epgshare,Disc.Turbo+1.uk,high
+P2,UK| DISCOVERY SCIENCE,DiscoveryScience.uk,epgshare,Disc.Science.uk,high
+P2,UK| DISCOVERY HISTORY,DiscoveryHistory.uk,epgshare,Disc.History.uk,high
+P2,UK| HISTORY FHD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK| HISTORY 2 FHD,History2.uk,epgshare,Sky.History2.uk,high
+P2,UK| NAT GEO FHD,NatGeo.uk,epgshare,Nat.Geo.HD.uk,high
+P2,UK| NAT GEO HD,NatGeo.uk,epgshare,Nat.Geo.HD.uk,high
+P2,UK| NAT GEO SD,NatGeo.uk,epgshare,Nat.Geo.HD.uk,high
+P2,UK| NAT GEO +1,,epgshare,Nat.Geo.HD.uk|+1h,medium
+P2,UK| NAT GEO WILD FHD,NatGeoWild.uk,epgshare,Nat.Geo.Wild.uk,high
+P2,UK| NAT GEO WILD HD,NatGeoWild.uk,epgshare,Nat.Geo.Wild.uk,high
+P2,UK| NAT GEO WILD SD,NatGeoWild.uk,epgshare,Nat.Geo.Wild.uk,high
+P2,UK| DMAX,DiscoveryDMAX.uk,freeview,DMAX.uk,high
+P2,UK| DMAX +1,DiscoveryDMAX.uk,freeview,DMAXUKPlus1.uk,high
+P2,UK| SKY CRIME FHD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK| SKY NATURE FHD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK| EARTHX TV,EarthX.uk,,,none
+P2,UK| INVESTIGATION DISCOVERY,InvestigationDiscovery.uk,epgshare,ID.uk,high
+P2,UK| CRIME INVESTIGATION FHD,CrimeAndInvestigationNetwork.uk,epgshare,Crime+Inv.HD.uk,high
+P2,UK| CRIME INVESTIGATION +1,,epgshare,Crime+Inv+1.uk,high
+P2,UK| ID +1,InvestigationDiscovery.uk,epgshare,ID+1.uk,high
+P2,UK| 5ACTION HD,5Action.uk,freeview,5Action.uk,high
+P2,UK| SKY HISTORY/H2 HD,,epgshare,Sky.History2.uk,medium
+P2,UK| SKY HISTORY HD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK| 5 SELECT,5Select.uk,freeview,5Select.uk,high
+P2,UK| TRAVEL CHANNEL,TravelChannel.uk,,,none
+P2,UK| S4C,S4C.uk,freeview,S4C.uk,high
+P2,UK| TJC FHD,TheJewelryChannel.uk,freeview,TJC.uk,high
+P2,UK| TV WAREHOUSE,TVWarehouse.uk,freeview,TVWarehouse.uk,high
+P2,UK| W HD,W.uk,freeview,UAndW.uk,high
+P2,UK| NATIONAL GEO HEVC FHD,NatGeo.uk,epgshare,Nat.Geo.HD.uk,high
+P2,UK| NATIONAL GEO HEVC HD,NatGeo.uk,epgshare,Nat.Geo.HD.uk,high
+P2,UK| Nat Geo WIld HEVC FHD,NatGeoWild.uk,epgshare,Nat.Geo.Wild.uk,high
+P2,UK| NAT GEO WIld HEVC HD,NatGeoWild.uk,epgshare,Nat.Geo.Wild.uk,high
+P2,UK| DISCOVERY HEVC FHD,,epgshare,Discovery.HD.uk,high
+P2,UK| DISCOVERY HEVC HD,,epgshare,Discovery.HD.uk,high
+P2,UK| SKY HISTORY HEVC FHD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK| SKY HISTORY HEVC HD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK| SKY HISTORY 2 HEVC FHD,History2.uk,epgshare,Sky.History2.uk,high
+P2,UK| SKY HISTORY 2 HEVC HD,History2.uk,epgshare,Sky.History2.uk,high
+P2,UK| SKY NATURE HEVC FHD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK| SKY NATURE HEVC HD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK| SKY CRIME HEVC FHD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK| SKY CRIME HEVC HD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK| SYFY HEVC FHD,uk.Syfy,,,none
+P2,UK| SYFY HEVC HD,uk.Syfy,,,none
+P2,UK| CRIME INVESTIGATION HEVC FHD,CrimeInvestigation.uk,epgshare,Crime+Inv.HD.uk,high
+P2,UK| CRIME INVESTIGATION HEVC HD,CrimeInvestigation.uk,epgshare,Crime+Inv.HD.uk,high
+P2,UK| MTV XMAS,,,,none
+P2,UK| MTV FHD,MTV.uk,epgshare,MTV.HD.uk,high
+P2,UK| MTV LIVE FHD,uk.MTV Live HD,,,none
+P2,UK| MTV BASE,MTVBase.uk,,,none
+P2,UK| MTV CLASSIC,MTVClassic.uk,,,none
+P2,UK| MTV CLUB,,,,none
+P2,UK| MTV HITS,MTVHits.uk,,,none
+P2,UK| MTV MUSIC,MTVMusic.uk,,,none
+P2,UK| MC-TODDLER JAMS,,,,none
+P2,UK| MC-KIDS ONLY,,,,none
+P2,UK| MC-THROWBACK JAMS,,,,none
+P2,UK| MC-90S,,,,none
+P2,UK| MC-TROPICALES,,,,none
+P2,UK| MC-TODAYS COUNTRY,,,,none
+P2,UK| MC-TEEN BEATS,,,,none
+P2,UK| MC-ROCK,,,,none
+P2,UK| MC-RAP,,,,none
+P2,UK| MC-R&B SOUL,,,,none
+P2,UK| MC-POP LATINO,,,,none
+P2,UK| MC-POP HITS,,,,none
+P2,UK| MC-POP & COUNTRY,,,,none
+P2,UK| MC-MUSICA URBANA,,,,none
+P2,UK| MC-MEXICANA,,,,none
+P2,UK| MC-HIT LIST,,,,none
+P2,UK| MC-HIP HOP,,,,none
+P2,UK| MC-DANCE EDM,,,,none
+P2,UK| MC-ALTERNATIVE,,,,none
+P2,UK| 4 MUSIC,4Music.uk,,,none
+P2,UK| MTV 90S,,,,none
+P2,UK| CLUBLAND TV,ClublandTV.uk,freeview,ClublandTV.uk,high
+P2,UK| TRACE URBAN,uk.Trace Urban,,,none
+P2,UK| VH1,VH1.uk,,,none
+P2,UK| KARAOKE 1,,,,none
+P2,UK| KARAOKE 2,,,,none
+P2,UK| KARAOKE 3,,,,none
+P2,UK| KARAOKE 4,,,,none
+P2,UK| KARAOKE 5,,,,none
+P2,EN| KARAOKE 6,,,,none
+P2,UK| KARAOKE 7,,,,none
+P2,UK| KARAOKE 8,,,,none
+P2,UK| NOW 70S,Now70s.uk,freeview,Now70s.uk,high
+P2,UK| NOW 80S,NOW80s.uk,freeview,Now80s.uk,high
+P2,UK| NOW 90S,Now90s.uk,epgshare,NOW.90s.uk,high
+P2,UK| 80'S - DIRECT ᴴᴰ,,,,none
+P2,UK| 90'S - DIRECT ᴴᴰ,,,,none
+P2,UK| ALTERNATIVE - DIRECT ᴴᴰ,,,,none
+P2,UK| COUNTRY HITS - DIRECT ᴴᴰ,,,,none
+P2,UK| DANCE/ EDM - DIRECT ᴴᴰ,,,,none
+P2,UK| HIP-HOP AND R&B - DIRECT ᴴᴰ,,,,none
+P2,UK| HIT LIST - DIRECT ᴴᴰ,,,,none
+P2,UK| KIDZ BOP - DIRECT ᴴᴰ,,,,none
+P2,UK| KIDZ ONLY! - DIRECT ᴴᴰ,,,,none
+P2,UK| MUSICA URBANA - DIRECT ᴴᴰ,,,,none
+P2,UK| MUSIC CHOICE MAX - DIRECT ᴴᴰ,,,,none
+P2,UK| POP & COUNTRY - DIRECT ᴴᴰ,,,,none
+P2,UK| POP HITS - DIRECT ᴴᴰ,,,,none
+P2,UK| POP LATINO - DIRECT ᴴᴰ,,,,none
+P2,UK| R&B SOUL - DIRECT ᴴᴰ,,,,none
+P2,UK| RAP - DIRECT ᴴᴰ,,,,none
+P2,UK| RAP 2K - DIRECT ᴴᴰ,,,,none
+P2,UK| SOFT ROCK - DIRECT ᴴᴰ,,,,none
+P2,UK| TEEN BEATS - DIRECT ᴴᴰ,,,,none
+P2,UK| THROWBACK JAMZ - DIRECT ᴴᴰ,,,,none
+P2,UK| TODAY'S COUNTRY: CMA AWARDS - DIRECT ᴴᴰ,,,,none
+P2,UK| TODDLER TUNES - DIRECT ᴴᴰ,,,,none
+P2,UK| TROPICALES - DIRECT ᴴᴰ,,,,none
+P2,UK| Y2K - DIRECT ᴴᴰ,,,,none
+P2,UK| CINEMANIA HOLLYWOOD 4K,,,,none
+P2,UK| SKY CINEMA ACTION FHD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK| SKY CINEMA ANIMATION FHD,SkyCinemaAnimation.uk,,,none
+P2,UK| SKY CINEMA FAMILY FHD,uk.Sky Cinema Family,epgshare,Sky.Family.HD.uk,high
+P2,UK| SKY CINEMA COMEDY FHD,SkyCinemaComedy.uk,epgshare,Sky.Cinema.Comedy.uk,high
+P2,UK| SKY CINEMA DRAMA FHD,SkyCinemaDrama.uk,epgshare,Sky.Drama.HD.uk,high
+P2,UK| SKY CINEMA GREATS FHD,SkyCinemaGreats.uk,epgshare,Sky.Greats.HD.uk,high
+P2,UK| SKY CINEMA HITS FHD,SkyCinemaHits.uk,epgshare,Sky.Cinema.Hits.HD.uk,high
+P2,UK| SKY CINEMA PREMIER FHD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK| SKY CINEMA SCI-FI FHD,uk.Sky Cinema Sci Fi & Horror,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK| SKY CINEMA THRILLER FHD,SkyThriller.uk,epgshare,Sky.Thriller.HD.uk,high
+P2,UK| SKY WITNESS FHD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK| 5 ACTION HD,5Action.uk,freeview,5Action.uk,high
+P2,UK| SKY ATLANTIC HD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK| SKY CINEMA ACTION HD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK| SKY CINEMA ANIMATION HD,SkyCinemaAnimation.uk,,,none
+P2,UK| SKY CINEMA COMEDY HD,SkyCinemaComedy.uk,epgshare,Sky.Cinema.Comedy.uk,high
+P2,UK| SKY CINEMA FAMILY HD,SkyCinemaFamily.uk,epgshare,Sky.Family.HD.uk,high
+P2,UK| SKY CINEMA DRAMA HD,SkyCinemaDrama.uk,epgshare,Sky.Drama.HD.uk,high
+P2,UK| SKY CINEMA GREATS HD,SkyCinemaGreats.uk,epgshare,Sky.Greats.HD.uk,high
+P2,UK| SKY CINEMA HITS HD,SkyCinemaHits.uk,epgshare,Sky.Cinema.Hits.HD.uk,high
+P2,UK| SKY CINEMA OSCARS HD,,,,none
+P2,UK| SKY CINEMA PREMIERE HD,SkyCinemaPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK| SKY CINEMA SCIFI HD,SkyCinemaSciFiHorror.uk,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK| SKY CINEMA SELECT HD,,epgshare,Sky.Cinema.Select.uk,high
+P2,UK| SKY CINEMA THRILLER HD,UK| SKY CINEMA THRILLER,epgshare,Sky.Thriller.HD.uk,high
+P2,UK| TG4 HD,,freeview,TG4.ie,high
+P2,UK| COMEDY CENTRAL +1,,epgshare,ComedyCent+1.uk,high
+P2,UK| DAVE JA VU,DaveJaVu.uk,freeview,UAndDavejavu.uk,high
+P2,UK| DRAMA +1,Drama.uk,freeview,UAndDramaPlus1.uk,high
+P2,UK| E4 +1,uk.E4+1,freeview,E4Plus1.uk,high
+P2,UK| FILM4,Film4.uk,freeview,Film4.uk,high
+P2,UK| FILM 4 +1,,freeview,Film4Plus1.uk,high
+P2,UK| GREAT! ACTION,GreatAction.uk,freeview,GreatAction.uk,high
+P2,UK| GREAT! ACTION +1,GreatAction.uk,freeview,GreatActionPlus1.uk,high
+P2,UK| GREAT! MOVIES,GreatMovies.uk,freeview,GreatMovies.uk,high
+P2,UK| GREAT! MOVIES +1,,epgshare,GREAT!.movies+1.uk,high
+P2,UK| GREAT! ROMANCE,GreatRomance.uk,freeview,GreatRomance.uk,high
+P2,UK| GREAT! TV,GreatTV.uk,freeview,GreatTV.uk,high
+P2,UK| GREAT! TV +1,,freeview,GreatTVPlus1.uk,high
+P2,UK| GREAT MOVIES +1,,epgshare,GREAT!.movies+1.uk,high
+P2,UK| GREAT TV CHANNEL +1,,freeview,GreatTV.uk|+1h,medium
+P2,UK| GREAT MOVIES,,freeview,GreatMovies.uk,high
+P2,UK| GREAT MOVIES ACTION,,freeview,GreatAction.uk,high
+P2,UK| HORROR XTRA,,freeview,LegendXtra.uk,low
+P2,UK| HORROR XTRA +1,,freeview,LegendXtraPlus1.uk,low
+P2,UK| MORE 4 +1,,freeview,More4Plus1.uk,high
+P2,UK| MOVIES 24,Movies24.uk,freeview,Movies24.uk,high
+P2,UK| MOVIES 24 +1,,freeview,Movies24.uk|+1h,medium
+P2,UK| REALITY XTRA IE,,,,none
+P2,UK| SKY CINEMA ACTION,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK| SKY CINEMA COMEDY,SkyCinemaComedy.uk,epgshare,Sky.Cinema.Comedy.uk,high
+P2,UK| SKY CINEMA DRAMA,SkyCinemaDrama.uk,epgshare,Sky.Drama.HD.uk,high
+P2,UK| SKY CINEMA GREATS,SkyCinemaGreats.uk,epgshare,Sky.Greats.HD.uk,high
+P2,UK| SKY CINEMA HITS,SkyCinemaHits.uk,epgshare,Sky.Cinema.Hits.HD.uk,high
+P2,UK| SKY CINEMA PREMIERE,SkyCinemaPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK| SKY CINEMA SCI-FI,SkyCinemaSciFiHorror.uk,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK| SKY CINEMA THRILLER,SkyThriller.uk,epgshare,Sky.Thriller.HD.uk,high
+P2,UK| SKY CRIME +1,,epgshare,Sky.Crime+1.uk,high
+P2,UK| SKY PREMIERE +1,,epgshare,Sky.Premiere.uk|+1h,medium
+P2,UK| SKY SHOWCASE +1,,,,none
+P2,UK| SKY WITNESS,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK| SONY CHANNEL,SonyMovies.uk,,,none
+P2,UK| SONY MOVIES ACTION,SonyMoviesAction.uk,,,none
+P2,UK| TALKING PICTURES,TalkingPictures.uk,freeview,TalkingPicturesTV.uk,high
+P2,UK| FILM 4 HEVC FHD,Film4.uk,freeview,Film4.uk,high
+P2,UK| FILM 4 HEVC HD,Film4.uk,freeview,Film4.uk,high
+P2,UK| SKY CINEMA ACTION HEVC FHD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK| SKY CINEMA ACTION HEVC HD,UK| SKY CINEMA ACTION,epgshare,Sky.Action.uk,high
+P2,UK| SKY CINEMA ANIMATION HEVC FHD,SkyCinemaAnimation.uk,,,none
+P2,UK| SKY CINEMA ANIMATION HEVC HD,SkyCinemaAnimation.uk,,,none
+P2,UK| SKY CINEMA COMEDY HEVC FHD,SkyCinemaComedy.uk,epgshare,Sky.Cinema.Comedy.uk,high
+P2,UK| SKY CINEMA COMEDY HEVC HD,SkyCinemaComedy.uk,epgshare,Sky.Cinema.Comedy.uk,high
+P2,UK| SKY CINEMA DRAMA/CHRISTMAS HEVC FHD,SkyCinemaDrama.uk,epgshare,Sky.Drama.HD.uk,high
+P2,UK| SKY CINEMA DRAMA/CHRISTMAS HEVC HD,SkyCinemaDrama.uk,epgshare,Sky.Drama.HD.uk,high
+P2,UK| SKY CINEMA FAMILY HEVC FHD,SkyCinemaFamily.uk,epgshare,Sky.Family.HD.uk,high
+P2,UK| SKY CINEMA FAMILY HEVC HD,SkyCinemaFamily.uk,epgshare,Sky.Family.HD.uk,high
+P2,UK| SKY CINEMA GREATS HEVC FHD,SkyCinemaGreats.uk,epgshare,Sky.Greats.HD.uk,high
+P2,UK| SKY CINEMA GREATS HEVC HD,SkyCinemaGreats.uk,epgshare,Sky.Greats.HD.uk,high
+P2,UK| SKY CINEMA HITS HEVC FHD,SkyCinemaHits.uk,epgshare,Sky.Cinema.Hits.HD.uk,high
+P2,UK| SKY CINEMA HITS HEVC HD,SkyCinemaHits.uk,epgshare,Sky.Cinema.Hits.HD.uk,high
+P2,UK| SKY CINEMA PREMIER HEVC FHD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK| SKY CINEMA PREMIER HEVC HD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK| SKY CINEMA SCIFI/HORROR HEVC FHD,SkyCinemaSciFiHorror.uk,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK| SKY CINEMA SCIFI/HORROR HEVC HD,SkyCinemaSciFiHorror.uk,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK| SKY CINEMA SELECT/FEEL GOOD HEVC FHD,,epgshare,Sky.Cinema.Select.uk,high
+P2,UK| SKY CINEMA SELECT/FEEL Good HEVC HD,,epgshare,Sky.Cinema.Select.uk,high
+P2,UK| SKY CINEMA THRILLER HEVC FHD,SkyCinemaThriller.uk,epgshare,Sky.Thriller.HD.uk,high
+P2,UK| SKY CINEMA THRILLER HEVC HD,UK| SKY CINEMA THRILLER,epgshare,Sky.Thriller.HD.uk,high
+P2,UK| COMEDY 24/7 ᴴᴰ,,,,none
+P2,UK| ITV 1 ᴴᴰ,ITV1.uk,freeview,ITV1London.uk,medium
+P2,UK| ITV 2 ᴴᴰ,,freeview,ITV2.uk,high
+P2,UK| ITV 3 ᴴᴰ,,freeview,ITV3.uk,high
+P2,UK| ITV 4 ᴴᴰ,,freeview,ITV4.uk,high
+P2,UK| ITV BE ᴴᴰ,uk.ITV BE,,,none
+P2,UK| ITV SIGNED ᴴᴰ,,,,none
+P2,UK| LOVE ISLAND 24/7 ᴴᴰ,,,,none
+P2,UK| MIDSOMER MURDERS ᴴᴰ,,,,none
+P2,UK| REALITY 24/7 ᴴᴰ,,,,none
+P2,UK| SATURDAY NIGHT EVERY NIGHT! ᴴᴰ,,,,none
+P2,UK| TOWIE TV ᴴᴰ,,,,none
+P2,UK| VERA ᴴᴰ,,,,none
+P2,UK| SKY SPORTS + HD,,epgshare,SkySp+.uk,high
+P2,UK|SKY SPORTS ACTION HD,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK| SKY SPORTS CRICKET HD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK| SKY SPORTS F1 HD,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK| SKY SPORTS F1 UHD/4K,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK| SKY SPORTS FOOTBALL HD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK| SKY SPORTS GOLF HD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK| SKY SPORTS MAIN EVENT UHD/4K,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MAIN EVENTS HD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MAIN EVENTS HD(BK),SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MIX HD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK| SKY SPORTS NEWS HD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK| SKY SPORTS PL HD,SkySportsPremiereLeague.uk,epgshare,SkySp.PL.HD.uk,high
+P2,UK| SKY SPORTS RACING HD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK| SKY SPORTS TENNIS HD,SkySportsTennis.uk,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK| TNT SPORTS 1 HD,TNT.Sports.1.HD.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 1 HD ◉,TNTSports1.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 2 HD,TNT.Sports.2.HD.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK| TNT SPORTS 3 HD,TNT.Sports.3.HD.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK| TNT SPORTS 4 HD,TNT.Sports.4.HD.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| TNT SPORTS 5 HD,TNT.Sports.5.HD.uk,epgshare,TNT.Sports.5.HD.uk,high
+P2,UK| BT BOX OFFICE HD,,,,none
+P2,UK| DAZN 1 HD,,,,none
+P2,UK| MANCHESTER UNITED HD,,epgshare,MUTV.HD.uk,high
+P2,UK| CHELSEA TV HD,,,,none
+P2,UK| LFC TV FHD,LiverpoolFCTV.uk,epgshare,LFCTV.HD.uk,high
+P2,UK| LFC TV,uk.425 LFCTV HD,epgshare,LFCTV.HD.uk,high
+P2,UK| MUTV FHD,MUTV.uk,epgshare,MUTV.HD.uk,high
+P2,UK| EUROSPORT 1 HD,uk.Eurosport 1,,,none
+P2,UK| EUROSPORT 2 HD,Eurosport 2 HD.uk,,,none
+P2,UK| PREMIER SPORT LALIGA TV HD,LaLiga.uk,,,none
+P2,UK| PREMIER SPORTS 1 HD,PremierSports1.uk,epgshare,Premier.Sports.1.HD.uk,high
+P2,UK| PREMIER SPORT 2 HD,ViaplaySports2.uk,epgshare,Premier.Sports.2.HD.uk,high
+P2,UK| SKY SPORTS + FHD,SkySportsArena.uk,epgshare,SkySp+.uk,high
+P2,UK| SKY SPORTS ACTION FHD,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK| SKY SPORTS CRICKET FHD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK| SKY SPORTS F1 FHD,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK| SKY SPORTS FOOTBALL FHD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK| SKY SPORTS GOLF FHD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK| SKY SPORTS MAIN EVENT FHD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MIX FHD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK| SKY SPORTS NEWS FHD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK| SKY SPORTS PL FHD,SkySportsPremiereLeague.uk,epgshare,SkySp.PL.HD.uk,high
+P2,UK| SKY SPORTS RACING FHD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK| SKY SPORTS TENNIS FHD,,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK| TNT ULTIMATE 4K+ [LIVE-EVENT],BTSportUltimate.uk,,,none
+P2,UK| TNT BOX OFFICE FHD,TNT.Sport.BoxOffice.HD.uk,,,none
+P2,UK| TNT SPORTS ESPN FHD,BTSport4ESPN.uk,,,none
+P2,UK| TNT SPORTS 1 FHD,TNT.Sports.1.HD.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 2 FHD,TNT.Sports.2.HD.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK| TNT SPORTS 3 FHD,TNT.Sports.3.HD.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK| TNT SPORTS 4 FHD,TNT.Sports.4.HD.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| TNT SPORTS 5 FHD,TNT.Sports.5.HD.uk,epgshare,TNT.Sports.5.HD.uk,high
+P2,UK| SKY SPORTS +,SkySportsArena.uk,epgshare,SkySp+.uk,high
+P2,UK| SKY SPORTS ACTION,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK| SKY SPORTS CRICKET,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK| SKY SPORTS F1,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK| SKY SPORTS FOOTBALL,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK| SKY SPORTS GOLF,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK| SKY SPORTS MAIN EVENT,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MIX,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK| SKY SPORTS NEWS,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK| SKY SPORTS PREMIER LEAGUE FHD,uk.Sky Sports Premier League,epgshare,SkySp.PL.HD.uk,high
+P2,UK| SKY SPORTS RACING,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK| TNT SPORTS 1 SD,TNT.Sports.1.HD.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 2 SD,TNT.Sports.2.HD.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK| TNT SPORTS 3 SD,TNT.Sports.3.HD.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK| TNT SPORTS 4 SD,TNT.Sports.4.HD.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| TNT SPORTS 5,TNT.Sports.5.HD.uk,epgshare,TNT.Sports.5.HD.uk,high
+P2,UK| EUROSPORT 1 FHD,uk.Eurosport 1,,,none
+P2,UK| EUROSPORT 2 FHD,uk.Eurosport 2 HD,,,none
+P2,UK| VIAPLAY XTRA HD,,,,none
+P2,UK| PREMIER SPORT LALIGA TV FHD,,,,none
+P2,UK| PREMIER SPORT 1 FHD,ViaplaySports1.uk,epgshare,Premier.Sports.1.HD.uk,high
+P2,UK| PREMIER SPORTS 2 FHD,ViaplaySports2.uk,epgshare,Premier.Sports.2.HD.uk,high
+P2,UK| RACING UK FHD,RacingUK.uk,epgshare,Racing.TV.HD.uk,high
+P2,UK| RACING UK ◉,RacingUK.uk,epgshare,Racing.TV.HD.uk,high
+P2,UK| PDC DARTS TV 2 (Event Only),,,,none
+P2,UK| PDC DARTS TV 1 (Event Only),,,,none
+P2,UK| EDGE SPORT FHD,,,,none
+P2,UK| UFC TV (Events2),,,,none
+P2,UK| UFC HD,,,,none
+P2,UK| SKY SPORTS + FHD,SkySportsArena.uk,epgshare,SkySp+.uk,high
+P2,UK| SKY SPORTS ACTION HEVC HD,uk.861 SkySp ActionHD,epgshare,SkySp.ActionHD.uk,high
+P2,UK| SKY SPORTS ACTION HEVC FHD,uk.407 SkySp Action,epgshare,SkySp.ActionHD.uk,high
+P2,UK| SKY SPORTS CRICKET HEVC FHD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK| SKY SPORTS CRICKET HD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK| SKY SPORTS FOOTBALL HEVC FHD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK| SKY SPORTS FOOTBALL HEVC HD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK| SKY SPORTS GOLF HEVC FHD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK| SKY SPORTS GOLF HEVC HD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK| SKY SPORTS MAIN EVENTS HEVC FHD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MAIN EVENTS HEVC HD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK| SKY SPORTS MIX HEVC FHD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK| SKY SPORTS MIX HEVC HD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK| SKY SPORTS NEWS HEVC HD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK| SKY SPORTS NEWS HEVC FHD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK| SKY SPORTS PREMIER LEAGUE HEVC FHD,SkySportsPremiereLeague.uk,epgshare,SkySp.PL.HD.uk,high
+P2,UK| SKY SPORTS PREMIER LEAGUE HEVC,uk.Sky Sports Premier League,epgshare,SkySp.PL.HD.uk,high
+P2,UK| SKY SPORTS RACING HEVC FHD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK| SKY SPORTS RACING HEVC HD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK| SKY SPORTS TENNIS HEVC HD,,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK| SKY SPORTS TENNIS HEVC FHD,,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK| SKY SPORTS ARENA HEVC HD,SkySportsArena.uk,,,none
+P2,UK| SKY SPORTS DARTS HEVC HD,SkySportsF1.uk,,,none
+P2,UK| TNT SPORTS 1 HEVC FHD,TNT.Sports.1.HD.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 1 HEVC HD,uk.413 BT Sport 1,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 1 HEVC FHD,TNT.Sports.1.HD.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK| TNT SPORTS 2 HEVC FHD,uk.868 BT Sport 2 HD,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK| TNT SPORTS 2 HEVC HD,uk.414 BT Sport 2,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK| TNT SPORTS 3 HEVC FHD,uk.869 BT Sport 3 HD,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK| TNT SPORTS 3 HEVC HD,uk.417 BT Sport 3,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK| TNT SPORTS 4 HEVC FHD,,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| TNT SPORTS 4 HEVC HD,,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| RACING UK HEVC HD,RacingUK.uk,epgshare,Racing.TV.HD.uk,high
+P2,UK| RACING UK HEVC FHD,RacingUK.uk,epgshare,Racing.TV.HD.uk,high
+P2,UK| TNT SPORTS BOX OFFICE HEVC,,epgshare,TNT.Sports.Box.Office.uk,high
+P2,UK| EUROSPORT 1  HEVC FHD,Eurosport.1.HD.uk,,,none
+P2,UK| EUROSPORT 1 HEVC HD,uk.Eurosport 1,,,none
+P2,UK| EUROSPORTS 2 HEVC FHD,uk.Eurosport 2,,,none
+P2,UK| EUROSPORTS 2 HEVC HD,uk.Eurosport 2 HD,,,none
+P2,UK| PREMIER SPORTS 1 IRELAND HEVC FHD,uk.412 Premier 1 HD,epgshare,Premier.Sports.1.HD.uk,medium
+P2,UK| PREMIER SPORTS 1 IRELAND HEVC HD,uk.412 Premier 1 HD,epgshare,Premier.Sports.1.HD.uk,medium
+P2,UK| PREMIER SPORTS 2 IRELAND HEVC HD,uk.429 Premier 2 HD,epgshare,Premier.Sports.2.HD.uk,medium
+P2,UK| PREMIER SPORTS 2 IRELAND HEVC FHD,,epgshare,Premier.Sports.2.HD.uk,medium
+P2,UK| DAZN PPV HEVC FHD,,,,none
+P2,UK| DAZN PPV HEVC HD,,,,none
+P2,UK| VIAPLAY 1 HEVC FHD,ViaplaySports1.uk,,,none
+P2,UK| VIAPLAY 2 HEVC FHD,ViaplaySports2.uk,,,none
+P2,UK| VIAPLAY 1 HEVC HD,ViaplaySports1.uk,,,none
+P2,UK| VIAPLAY 2 HEVC HD,ViaplaySports2.uk,,,none
+P2,UK| LFC HEVC FHD,uk.425 LFCTV HD,epgshare,LFCTV.HD.uk,high
+P2,UK| LFC HEVC HD,uk.425 LFCTV HD,epgshare,LFCTV.HD.uk,high
+P2,UK| MUTV HEVC FHD,MUTV.uk,epgshare,MUTV.HD.uk,high
+P2,UK| MUTV HEVC HD,MUTV.uk,epgshare,MUTV.HD.uk,high
+P2,D+| ANIMAL PLANET FHD,AnimalPlanet.uk,epgshare,Animal.Planet.uk,high
+P2,D+| DISCOVERY HISTORY,DiscoveryHistory.uk,epgshare,Disc.History.uk,high
+P2,D+| DISCOVERY SCIENCE,DiscoveryScience.uk,epgshare,Disc.Science.uk,high
+P2,D+| DISCOVERY TURBO,DiscoveryTurbo.uk,epgshare,Disc.Turbo.uk,high
+P2,D+| DMAX,DiscoveryDMAX.uk,freeview,DMAX.uk,high
+P2,D+| FOOD NETWORK,FoodNetwork.uk,freeview,FoodNetwork.uk,high
+P2,D+| HGTV,HGTV.uk,,,none
+P2,D+| ID,InvestigationDiscovery.uk,epgshare,ID.uk,high
+P2,D+| QUEST HD,Quest.uk,freeview,QuestHD.uk,high
+P2,D+| QUEST RED HD,QuestRed.uk,freeview,QuestRed.uk,high
+P2,D+| REALLY,Really.uk,freeview,Really.uk,high
+P2,D+| TLC FHD,TLC.uk,freeview,TLC.uk,high
+P2,UK-BBCI| BBC ALBA,,freeview,BBCAlba.uk,high
+P2,UK-BBCI| BBC EVENTS 1,,,,none
+P2,UK-BBCI| BBC EVENTS 1 (UHD/4K),,,,none
+P2,UK-BBCI| BBC FOUR,,freeview,BBCFourHD.uk,high
+P2,UK-BBCI| BBC NEWS,,freeview,BBCNews.uk,high
+P2,UK-BBCI| BBC ONE CHANNEL ISLANDS,,freeview,BBCOneChannelIslands.uk,high
+P2,UK-BBCI| BBC ONE EAST,,freeview,BBCOneEast.uk,high
+P2,UK-BBCI| BBC ONE EAST MIDLANDS,,freeview,BBCOneEastMidlands.uk,high
+P2,UK-BBCI| BBC ONE EAST YORKSHIRE & LINCOLNSHIRE,,freeview,BBCOneYorksLincs.uk,high
+P2,UK-BBCI| BBC ONE LONDON,,freeview,BBCOneLondonHD.uk,high
+P2,UK-BBCI| BBC ONE NI,,freeview,BBCOneNorthernIreland.uk,high
+P2,UK-BBCI| BBC ONE NORTH EAST & CUMBRIA,,freeview,BBCOneNorthEastCumbria.uk,high
+P2,UK-BBCI| BBC ONE NORTH WEST,,freeview,BBCOneNorthWest.uk,high
+P2,UK-BBCI| BBC ONE SCOTLAND,,freeview,BBCOneScotHD.uk,high
+P2,UK-BBCI| BBC ONE SOUTH,,freeview,BBCOneSouth.uk,high
+P2,UK-BBCI| BBC ONE SOUTH EAST,,freeview,BBCOneSouthEast.uk,high
+P2,UK-BBCI| BBC ONE SOUTH WEST,,freeview,BBCOneSouthWest.uk,high
+P2,UK-BBCI| BBC ONE WALES,,freeview,BBCOneWalesHD.uk,high
+P2,UK-BBCI| BBC ONE WEST,,freeview,BBCOneWest.uk,high
+P2,UK-BBCI| BBC ONE WEST MIDLANDS,,freeview,BBCOneWestMidlands.uk,high
+P2,UK-BBCI| BBC ONE YORKSHIRE,,freeview,BBCOneYorkshire.uk,high
+P2,UK-BBCI| BBC PARLIAMENT,,freeview,BBCParliament.uk,high
+P2,UK-BBCI| BBC RADIO 1,,freeview,BBCR1.uk,high
+P2,UK-BBCI| BBC RADIO 1 ANTHEMS,,,,none
+P2,UK-BBCI| BBC RADIO 1 DANCE,,,,none
+P2,UK-BBCI| BBC RADIO 1XTRA,,freeview,BBCR1X.uk,high
+P2,UK-BBCI| BBC RADIO 2,,freeview,BBCR2.uk,high
+P2,UK-BBCI| BBC RADIO 3,,freeview,BBCR3.uk,high
+P2,UK-BBCI| BBC RADIO 3 UNWIND,,,,none
+P2,UK-BBCI| BBC RADIO 4,,freeview,BBCR4FM.uk,high
+P2,UK-BBCI| BBC RADIO 4 EXTRA,,freeview,BBCR4EX.uk,high
+P2,UK-BBCI| BBC RADIO 5 LIVE,,freeview,BBCR5L.uk,high
+P2,UK-BBCI| BBC RADIO 5 LIVE SPORTS EXTRA,,freeview,BBCR5SX.uk,high
+P2,UK-BBCI| BBC RADIO 6 MUSIC,,freeview,BBCR6M.uk,high
+P2,UK-BBCI| BBC RADIO ASIAN NETWORK,,freeview,BBCRAsianNetwork.uk,high
+P2,UK-BBCI| BBC RADIO BERKSHIRE,,freeview,BBCRadioBerkshire.uk,high
+P2,UK-BBCI| BBC RADIO BRISTOL,,freeview,BBCRadioBristol.uk,high
+P2,UK-BBCI| BBC RADIO CAMBRIDGE,,freeview,BBCRadioCambridgeshire.uk,high
+P2,UK-BBCI| BBC RADIO CORNWALL,,freeview,BBCRadioCornwall.uk,high
+P2,UK-BBCI| BBC RADIO COVENTRY & WARWICKSHIRE (CWR),,,,none
+P2,UK-BBCI| BBC RADIO CUMBRIA,,freeview,BBCRadioCumbria.uk,high
+P2,UK-BBCI| BBC RADIO CYMRU,,freeview,BBCRadioCymru.uk,high
+P2,UK-BBCI| BBC RADIO CYMRU 2,,freeview,BBCRadioCymru2.uk,high
+P2,UK-BBCI| BBC RADIO DERBY,,freeview,BBCRadioDerby.uk,high
+P2,UK-BBCI| BBC RADIO DEVON,,freeview,BBCRadioDevon.uk,high
+P2,UK-BBCI| BBC RADIO ESSEX,,,,none
+P2,UK-BBCI| BBC RADIO FOYLE,,freeview,BBCRadioFoyle.uk,high
+P2,UK-BBCI| BBC RADIO GLOUCESTERSHIRE,,freeview,BBCRadioGloucestershire.uk,high
+P2,UK-BBCI| BBC RADIO GUERNSEY,,,,none
+P2,UK-BBCI| BBC RADIO HEREFORD & WORCESTER,,,,none
+P2,UK-BBCI| BBC RADIO HUMBERSIDE,,freeview,BBCRadioHumberside.uk,high
+P2,UK-BBCI| BBC RADIO JERSEY,,freeview,BBCRadioJersey.uk,high
+P2,UK-BBCI| BBC RADIO KENT,,freeview,BBCRadioKent.uk,high
+P2,UK-BBCI| BBC RADIO LANCASHIRE,,freeview,BBCRadioLancashire.uk,high
+P2,UK-BBCI| BBC RADIO LEEDS,,freeview,BBCRadioLeeds.uk,high
+P2,UK-BBCI| BBC RADIO LEICESTER,,freeview,BBCRadioLeicester.uk,high
+P2,UK-BBCI| BBC RADIO LINCOLNSHIRE,,freeview,BBCRadioLincolnshire.uk,high
+P2,UK-BBCI| BBC RADIO LONDON,,freeview,BBCRadioLondon.uk,high
+P2,UK-BBCI| BBC RADIO MANCHESTER,,freeview,BBCRadioManchester.uk,high
+P2,UK-BBCI| BBC RADIO MERSEYSIDE,,freeview,BBCRadioMerseyside.uk,high
+P2,UK-BBCI| BBC RADIO NAN GAIDHEAL,,freeview,BBCRadioGaidhael.uk,high
+P2,UK-BBCI| BBC RADIO NEWCASTLE,,freeview,BBCRadioNewcastle.uk,high
+P2,UK-BBCI| BBC RADIO NOTTINGHAM,,freeview,BBCRadioNottingham.uk,high
+P2,UK-BBCI| BBC RADIO ORKNEY,,freeview,BBCRadioOrkney.uk,high
+P2,UK-BBCI| BBC RADIO OXFORD,,,,none
+P2,UK-BBCI| BBC RADIO SCOTLAND EXTRA,,freeview,BBCRScotland.uk,low
+P2,UK-BBCI| BBC RADIO SCOTLAND FM,,freeview,BBCRScotland.uk,high
+P2,UK-BBCI| BBC RADIO SHEFFIELD,,freeview,BBCRadioSheffield.uk,high
+P2,UK-BBCI| BBC RADIO SHROPSHIRE,,freeview,BBCRadioShropshire.uk,high
+P2,UK-BBCI| BBC RADIO SOLENT,,,,none
+P2,UK-BBCI| BBC RADIO SOLENT WEST DORSET,,,,none
+P2,UK-BBCI| BBC RADIO SOMERSET,,,,none
+P2,UK-BBCI| BBC RADIO STOKE,,,,none
+P2,UK-BBCI| BBC RADIO SUFFOLK,,,,none
+P2,UK-BBCI| BBC RADIO SURREY,,freeview,BBCRadioSurrey.uk,high
+P2,UK-BBCI| BBC RADIO SUSSEX,,epgshare,BBC.Radio.Sussex.uk,high
+P2,UK-BBCI| BBC RADIO TEES,,freeview,BBCRadioTees.uk,high
+P2,UK-BBCI| BBC RADIO THREE COUNTIES,,freeview,BBCRadioThreeCounties.uk,high
+P2,UK-BBCI| BBC RADIO ULSTER,,freeview,BBCRUlster.uk,high
+P2,UK-BBCI| BBC RADIO WALES,,freeview,BBCRWales.uk,high
+P2,UK-BBCI| BBC RADIO WILTSHIRE,,,,none
+P2,UK-BBCI| BBC RADIO WM,,,,none
+P2,UK-BBCI| BBC RADIO WORLD SERVICE,,freeview,BBCWorldService.uk,high
+P2,UK-BBCI| BBC RADIO YORK,,freeview,BBCRadioYork.uk,high
+P2,UK-BBCI| BBC RED BUTTON,,freeview,BBCRedButton1.uk,low
+P2,UK-BBCI| BBC RED BUTTON 1,,freeview,BBCRedButton1.uk,high
+P2,UK-BBCI| BBC RED BUTTON 2,,,,none
+P2,UK-BBCI| BBC RED BUTTON 3,,,,none
+P2,UK-BBCI| BBC RED BUTTON 4,,,,none
+P2,UK-BBCI| BBC RED BUTTON 5,,,,none
+P2,UK-BBCI| BBC RED BUTTON 6,,,,none
+P2,UK-BBCI| BBC RED BUTTON 7,,,,none
+P2,UK-BBCI| BBC RED BUTTON 8,,,,none
+P2,UK-BBCI| BBC RED BUTTON 9,,,,none
+P2,UK-BBCI| BBC RED BUTTON 10,,,,none
+P2,UK-BBCI| BBC RED BUTTON 11,,,,none
+P2,UK-BBCI| BBC RED BUTTON 12,,,,none
+P2,UK-BBCI| BBC RED BUTTON 13,,,,none
+P2,UK-BBCI| BBC RED BUTTON 14,,,,none
+P2,UK-BBCI| BBC RED BUTTON 15,,,,none
+P2,UK-BBCI| BBC RED BUTTON 16,,,,none
+P2,UK-BBCI| BBC RED BUTTON 17,,,,none
+P2,UK-BBCI| BBC RED BUTTON 18,,,,none
+P2,UK-BBCI| BBC RED BUTTON 19,,,,none
+P2,UK-BBCI| BBC RED BUTTON 20,,,,none
+P2,UK-BBCI| BBC RED BUTTON 21,,,,none
+P2,UK-BBCI| BBC RED BUTTON 22,,,,none
+P2,UK-BBCI| BBC RED BUTTON 23,,,,none
+P2,UK-BBCI| BBC RED BUTTON 24,,,,none
+P2,UK-BBCI| BBC SCOTLAND,,freeview,BBCScotland.uk,high
+P2,UK-BBCI| BBC THREE,,freeview,BBCThreeHD.uk,high
+P2,UK-BBCI| BBC TWO ENGLAND,,freeview,BBCTwoHD.uk,high
+P2,UK-BBCI| BBC TWO NI,,freeview,BBCTwoNorthernIreland.uk,high
+P2,UK-BBCI| BBC TWO WALES,,freeview,BBCTwoWales.uk,high
+P2,UK-BBCI| CBBC,,freeview,CBBC.uk,high
+P2,UK-BBCI| CBEEBIES,,freeview,CBeebies.uk,high
+P2,UK-NOWTV| ALIBI HD,uk.Alibi HD,epgshare,U.and.alibi.HD.uk,high
+P2,UK-NOWTV| ALIBI SD,uk.Alibi HD,epgshare,U.and.alibi.HD.uk,high
+P2,UK-NOWTV| BOOMERANG FHD,uk.Boomerang HD,epgshare,Boomerang.HD.uk,high
+P2,UK-NOWTV| BOOMERANG HD,uk.Boomerang HD,epgshare,Boomerang.HD.uk,high
+P2,UK-NOWTV| BOOMERANG HD,uk.Boomerang HD,epgshare,Boomerang.HD.uk,high
+P2,UK-NOWTV| CARTOON NETWORK FHD,uk.Cartoon Network,epgshare,Cartoon.Net.HD.uk,high
+P2,UK-NOWTV| CARTOON NETWORK HD,uk.Cartoon Network HD,epgshare,Cartoon.Net.HD.uk,high
+P2,UK-NOWTV| CARTOON NETWORK HD,uk.Cartoon Network HD,epgshare,Cartoon.Net.HD.uk,high
+P2,UK-NOWTV| COMEDY CENTRAL FHD,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK-NOWTV| COMEDY CENTRAL HD,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK-NOWTV| COMEDY CENTRAL HD,ComedyCentral.uk,epgshare,ComedyCentral.uk,high
+P2,UK-NOWTV| GOLD FHD,uk.GOLD HD,epgshare,U.and.GOLD.HD.uk,high
+P2,UK-NOWTV| GOLD HD,uk.GOLD HD,epgshare,U.and.GOLD.HD.uk,high
+P2,UK-NOWTV| GOLD HD,uk.GOLD HD,epgshare,U.and.GOLD.HD.uk,high
+P2,UK-NOWTV| MTV FHD,uk.MTV HD,epgshare,MTV.HD.uk,high
+P2,UK-NOWTV| MTV HD,uk.MTV HD,epgshare,MTV.HD.uk,high
+P2,UK-NOWTV| MTV HD,uk.MTV HD,epgshare,MTV.HD.uk,high
+P2,UK-NOWTV| NICKELODEON FHD,Nickelodeon.uk,epgshare,NickelodeonHD.uk,high
+P2,UK-NOWTV| NICKELODEON HD,Nickelodeon.uk,epgshare,NickelodeonHD.uk,high
+P2,UK-NOWTV| NICKELODEON HD,Nickelodeon.uk,epgshare,NickelodeonHD.uk,high
+P2,UK-NOWTV| NICK JR FHD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK-NOWTV| NICK JR HD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK-NOWTV| NICK JR HD,NickJunior.uk,epgshare,Nick.Jr..HD.uk,high
+P2,UK-NOWTV| NICKTOONS FHD,Nicktoons.uk,epgshare,Nicktoons.uk,high
+P2,UK-NOWTV| NICKTOONS HD,Nicktoons.uk,epgshare,Nicktoons.uk,high
+P2,UK-NOWTV| NICKTOONS HD,Nicktoons.uk,epgshare,Nicktoons.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 1 FHD,PremierSports1.uk,epgshare,Premier.Sports.1.HD.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 1 HD,PremierSports1.uk,epgshare,Premier.Sports.1.HD.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 1 HD,PremierSports1.uk,epgshare,Premier.Sports.1.HD.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 2 FHD,PremierSports2.uk,epgshare,Premier.Sports.2.HD.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 2 HD,PremierSports2.uk,epgshare,Premier.Sports.2.HD.uk,high
+P2,UK-NOWTV| PREMIER SPORTS 2 HD,PremierSports2.uk,epgshare,Premier.Sports.2.HD.uk,high
+P2,UK-NOWTV| SET SPORTS MAIN EVENT (UHD/4K),,,,none
+P2,UK-NOWTV| SKY ACTION FHD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK-NOWTV| SKY ACTION HD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK-NOWTV| SKY ACTION HD,SkyAction.uk,epgshare,Sky.Action.uk,high
+P2,UK-NOWTV| SKYADVENTURE FHD,,epgshare,SkyAdventureHD.uk,high
+P2,UK-NOWTV| SKYADVENTURE HD,,epgshare,SkyAdventureHD.uk,high
+P2,UK-NOWTV| SKYADVENTURE HD,,epgshare,SkyAdventureHD.uk,high
+P2,UK-NOWTV| SKYANIMATION FHD,,,,none
+P2,UK-NOWTV| SKYANIMATION HD,,,,none
+P2,UK-NOWTV| SKYANIMATION HD,,,,none
+P2,UK-NOWTV| SKY ARTS 1 FHD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK-NOWTV| SKY ARTS 1 HD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK-NOWTV| SKY ARTS 1 HD,SkyArts.uk,freeview,SkyArts.uk,high
+P2,UK-NOWTV| SKY ATLANTIC FHD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK-NOWTV| SKY ATLANTIC HD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK-NOWTV| SKY ATLANTIC HD,SkyAtlantic.uk,epgshare,Sky.Atlantic.HD.uk,high
+P2,UK-NOWTV| SKY BOURNE FHD,,epgshare,Sky.Cinema.Hits.HD.uk,low
+P2,UK-NOWTV| SKY BOURNE HD,,epgshare,Sky.Cinema.Hits.HD.uk,low
+P2,UK-NOWTV| SKY BOURNE HD,,epgshare,Sky.Cinema.Hits.HD.uk,low
+P2,UK-NOWTV| SKY CINEMA PREMIERE FHD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK-NOWTV| SKY CINEMA PREMIERE HD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK-NOWTV| SKY CINEMA PREMIERE HD,SkyPremiere.uk,epgshare,Sky.Premiere.uk,high
+P2,UK-NOWTV| SKY COMEDY FHD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK-NOWTV| SKY COMEDY HD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK-NOWTV| SKY COMEDY HD,SkyComedy.uk,epgshare,Sky.Comedy.HD.uk,high
+P2,UK-NOWTV| SKY CRIME FHD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK-NOWTV| SKY CRIME HD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK-NOWTV| SKY CRIME HD,SkyCrime.uk,epgshare,Sky.Crime.HD.uk,high
+P2,UK-NOWTV| SKY DOCUMENTARIES FHD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK-NOWTV| SKY DOCUMENTARIES HD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK-NOWTV| SKY DOCUMENTARIES HD,SkyDocumentaries.uk,epgshare,Sky.Documentaries.HD.uk,high
+P2,UK-NOWTV| SKY DRAMA FHD,,epgshare,Sky.Drama.HD.uk,high
+P2,UK-NOWTV| SKY DRAMA HD,,epgshare,Sky.Drama.HD.uk,high
+P2,UK-NOWTV| SKY DRAMA HD,,epgshare,Sky.Drama.HD.uk,high
+P2,UK-NOWTV| SKY GREATS FHD,,epgshare,Sky.Greats.HD.uk,high
+P2,UK-NOWTV| SKY GREATS HD,,epgshare,Sky.Greats.HD.uk,high
+P2,UK-NOWTV| SKY GREATS HD,,epgshare,Sky.Greats.HD.uk,high
+P2,UK-NOWTV| SKY HISTORY FHD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK-NOWTV| SKY HISTORY HD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK-NOWTV| SKY HISTORY HD,HistoryChannel.uk,epgshare,Sky.HistoryHD.uk,high
+P2,UK-NOWTV| SKY KIDS FHD,SkyKids.uk,epgshare,Sky.Kids.HD.uk,high
+P2,UK-NOWTV| SKY KIDS HD,SkyKids.uk,epgshare,Sky.Kids.HD.uk,high
+P2,UK-NOWTV| SKY KIDS HD,SkyKids.uk,epgshare,Sky.Kids.HD.uk,high
+P2,UK-NOWTV| SKY MAX FHD,SkyMax.uk,,,none
+P2,UK-NOWTV| SKY MAX HD,SkyMax.uk,,,none
+P2,UK-NOWTV| SKY MAX HD,SkyMax.uk,,,none
+P2,UK-NOWTV| SKY NATURE FHD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK-NOWTV| SKY NATURE HD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK-NOWTV| SKY NATURE HD,SkyNature.uk,epgshare,Sky.Nature.HD.uk,high
+P2,UK-NOWTV| SKY NEWS LIVE FHD,,freeview,SkyNews.uk,high
+P2,UK-NOWTV| SKY NEWS LIVE HD,,freeview,SkyNews.uk,high
+P2,UK-NOWTV| SKY NEWS LIVE HD,,freeview,SkyNews.uk,high
+P2,UK-NOWTV| SKY SCFI/HOR FHD,,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK-NOWTV| SKY SCFI/HOR HD,,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK-NOWTV| SKY SCFI/HOR HD,,epgshare,Sky.ScFi/HorHD.uk,high
+P2,UK-NOWTV| SKY SCI-FI FHD,,epgshare,Sky.Sci-Fi.HD.uk,high
+P2,UK-NOWTV| SKY SCI-FI HD,,epgshare,Sky.Sci-Fi.HD.uk,high
+P2,UK-NOWTV| SKY SCI-FI HD,,epgshare,Sky.Sci-Fi.HD.uk,high
+P2,UK-NOWTV| SKY SHOWCASE FHD,SkyShowcase.uk,,,none
+P2,UK-NOWTV| SKY SHOWCASE HD,SkyShowcase.uk,,,none
+P2,UK-NOWTV| SKY SHOWCASE HD,SkyShowcase.uk,,,none
+P2,UK-NOWTV| SKY SPORTS+ FHD,SkySportsPlus.uk,epgshare,SkySp+.uk,high
+P2,UK-NOWTV| SKY SPORTS+ HD,SkySportsPlus.uk,epgshare,SkySp+.uk,high
+P2,UK-NOWTV| SKY SPORTS+ HD,SkySportsPlus.uk,epgshare,SkySp+.uk,high
+P2,UK-NOWTV| SKY SPORTS 1 (UHD/4K),,epgshare,Sky.Sports.Ultra.HD.1.uk,medium
+P2,UK-NOWTV| SKY SPORTS 2 (UHD/4K),,epgshare,Sky.Sports.Ultra.HD.2.uk,medium
+P2,UK-NOWTV| SKY SPORTS ACTION FHD,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK-NOWTV| SKY SPORTS ACTION HD,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK-NOWTV| SKY SPORTS ACTION HD,SkySportsAction.uk,epgshare,SkySp.ActionHD.uk,high
+P2,UK-NOWTV| SKY SPORTS CRICKET FHD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS CRICKET HD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS CRICKET HD,SkySportsCricket.uk,epgshare,SkySpCricket.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS F1 (UHD/4K),SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS F1 HD,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS F1 HD,SkySportsF1.uk,epgshare,SkySp.F1.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS FOOTBALL FHD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS FOOTBALL HD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS FOOTBALL HD,SkySportsFootball.uk,epgshare,SkySp.Fball.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS GOLF HD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK-NOWTV| SKY SPORTS GOLF HD,SkySportsGolf.uk,epgshare,SkySp.Golf.uk,high
+P2,UK-NOWTV| SKY SPORTS MAIN EVENT FHD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK-NOWTV| SKY SPORTS MAIN EVENT HD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK-NOWTV| SKY SPORTS MAIN EVENT SD,SkySportsMainEvent.uk,epgshare,SkySpMainEvHD.uk,high
+P2,UK-NOWTV| SKY SPORTS MIX FHD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS MIX HD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS MIX HD,SkySportsMix.uk,epgshare,SkySp.Mix.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS NEWS HQ FHD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS NEWS HQ HD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS NEWS HQ HD,SkySportsNews.uk,epgshare,SkySp.News.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD,uk.Sky Sports Premier League,epgshare,SkySp.PL.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD,uk.Sky Sports Premier League HD,epgshare,SkySp.PL.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD,uk.Sky Sports Premier League,epgshare,SkySp.PL.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS RACING FHD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS RACING HD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS RACING HD,SkySportsRacing.uk,epgshare,SkySp.Racing.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS TENNIS FHD,SkySportsTennis.uk,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS TENNIS HD,SkySportsTennis.uk,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK-NOWTV| SKY SPORTS TENNIS HD,SkySportsTennis.uk,epgshare,SkySp.Tennis.HD.uk,high
+P2,UK-NOWTV| SKY THRILLER FHD,,epgshare,Sky.Thriller.HD.uk,high
+P2,UK-NOWTV| SKY THRILLER HD,,epgshare,Sky.Thriller.HD.uk,high
+P2,UK-NOWTV| SKY THRILLER HD,,epgshare,Sky.Thriller.HD.uk,high
+P2,UK-NOWTV| SKY WITNESS FHD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK-NOWTV| SKY WITNESS HD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK-NOWTV| SKY WITNESS HD,SkyWitness.uk,epgshare,Sky.Witness.HD.uk,high
+P2,UK-NOWTV| TNT SPORT (UHD/4K),TNTSports1.uk,epgshare,TNT.Sports.Ultimate.HD.uk,low
+P2,UK-NOWTV| TNT SPORT 1 FHD,TNTSports1.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 1 HD,TNTSports1.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 1 HD,TNTSports1.uk,epgshare,TNT.Sports.1.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 2 FHD,TNTSports2.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 2 HD,TNTSports2.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 2 HD,TNTSports2.uk,epgshare,TNT.Sports.2.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 3 FHD,TNTSports3.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 3 HD,TNTSports3.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK-NOWTV| TNT SPORT 3 HD,TNTSports3.uk,epgshare,TNT.Sports.3.HD.uk,high
+P2,UK-NOWTV| TNT SPORTS 4 FHD,TNTSports4.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK-NOWTV| TNT SPORTS 4 HD,TNTSports4.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK-NOWTV| TNT SPORTS 4 HD,TNTSports4.uk,epgshare,TNT.Sports.4.HD.uk,high
+P2,UK| 192 RADIO,,,,none
+P2,UK| ASIA FM,,,,none
+P2,UK| BBC BBC WORLD SERVICE,,freeview,BBCWorldService.uk,high
+P2,UK| BBC RADIO 1,,freeview,BBCR1.uk,high
+P2,UK| BBC RADIO 1XTRA,,freeview,BBCR1X.uk,high
+P2,UK| BBC RADIO 2,,freeview,BBCR2.uk,high
+P2,UK| BBC RADIO 3,,freeview,BBCR3.uk,high
+P2,UK| BBC RADIO 4,,freeview,BBCR4FM.uk,high
+P2,UK| BBC RADIO 4 EXTRA,,freeview,BBCR4EX.uk,high
+P2,UK| BBC RADIO 5 LIVE (NON-UK),,,,none
+P2,UK| BBC RADIO 6 MUSIC,,freeview,BBCR6M.uk,high
+P2,UK| BRITAIN RADIO 355,,,,none
+P2,UK| CAPITAL GOLD,,,,none
+P2,UK| CLASSIC FM,,freeview,ClassicFM.uk,high
+P2,UK| OFFSHORE RADIO,,,,none
+P2,UK| FABULOUS 103 PATTAYA,,,,none
+P2,UK| MIRCHI RADIO,,,,none
+P2,UK| RADIO CAROLINE 648,,,,none
+P2,UK| RADIO CAROLINE FLASHBACK,,,,none
+P2,UK| RADIO DESI,,,,none
+P2,UK| RADIO MI AMIGO INTERNATIONAL,,,,none
+P2,UK| RADIO NORTH SEA INTERNATIONAL,,,,none
+P2,UK| RADIO PANJAB,,,,none
+P2,UK| RADIO SABRAS,,,,none
+P2,UK| RADIO SEAGUL,,,,none
+P2,UK| RADIO SPICE FM,,,,none
+P2,UK| RADIO SUNRISE,,,,none
+P2,UK| REWOUND RADIO,,,,none
+P2,UK| SABRAS RADION LONDON,,,,none
+P2,UK| SUNRISE FM LONDON,,,,none
+P2,UK| SWINGING RADIO ENGLAND,,,,none
+P2,UK| TIMES RADIO,,,,none
