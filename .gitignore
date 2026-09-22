@@ -1,0 +1,5 @@
+# local-only helpers and scratch files (provider data never goes in the repo)
+local/
+*.tmp
+*.json
+__pycache__/
